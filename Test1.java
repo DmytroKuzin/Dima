@@ -4,4 +4,5 @@ public class Test1 {
         System.out.println("Hello world!");
     }
     //Privet
+    // Kak Dimon zaebalsa!!!
 }
