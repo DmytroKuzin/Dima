@@ -4,10 +4,16 @@ public class Test1 {
         System.out.println("Hello world!");
 
     }
-    // Privet
+
+    //konflict
+    //Privet
     // Kak Dimon zaebalsa!!!
 
         System.out.println("Hello Dima!");
 
+
     // Davay dadim duplya!!
+
+
+
 }
