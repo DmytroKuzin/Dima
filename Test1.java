@@ -35,6 +35,9 @@ public class Test1 {
     System.out.println("Hello Kostya!");
 
     System.out.println("Hello Taras!");
+            //Kto zhe protiv, glavnij vopros - kak zalit s brenchi master v brenchu druguju?
+            //Oj, kazhetsa ponal, shas sdelaju!
+            
 
 
 
