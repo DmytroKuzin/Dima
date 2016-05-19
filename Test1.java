@@ -8,9 +8,8 @@ public class Test1 {
     //konflict
     //Privet
     // Kak Dimon zaebalsa!!!
-
         System.out.println("Hello Dima!");
-
+     // Chto proishodit?
 
 
     // Davay dadim duplya!!
