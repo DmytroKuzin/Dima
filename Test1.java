@@ -7,4 +7,5 @@ public class Test1 {
     //Privet
     // Kak Dimon zaebalsa!!!
      // Chto proishodit?
+    // evrika!
 }
