@@ -12,8 +12,12 @@ public class Test1 {
         System.out.println("Hello Dima!");
 
 
+
     // Davay dadim duplya!!
 
 
+
+
+        System.out.println("Hello Kostya!");
 
 }
